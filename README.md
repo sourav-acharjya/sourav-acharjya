@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **acharya.official@gmail.com**
+- 📫 How to reach me **acharjyasourav07@gmail.com**
 
 - ⚡ Fun fact **Tech geeks like me don't need an upgrade, they just need more RAM... and maybe a pizza**
 

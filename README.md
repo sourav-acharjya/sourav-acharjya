@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **acharjyasourav07@gmail.com**
 
-- ⚡ Fun fact **Tech geeks like me don't need an upgrade, they just need more RAM... and maybe a pizza**
+- ⚡ Fun fact **Tech geeks like me don't need an upgrade, they just need more RAM... and maybe a pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 Transforming ideas into digital reality with code</h3>
+<h3 align="center">Turning coffee into code since day one.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-acharjya-722325339/">
@@ -18,10 +18,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourav-acharjya&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15" alt="trophies">
-</div>
-
 ---
 
 ### 🔥 Tech Stack & Tools
@@ -34,7 +30,6 @@
 
 #### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
@@ -63,15 +58,15 @@
 
 ### 🎯 Currently Focusing On
 
-- ⚡ Mastering Microservices Architecture
-- 🔐 Learning Advanced DevOps Practices
-- 🌱 Exploring AI/ML Integration in Web Apps
+-  Mastering Microservices Architecture
+-  Learning Advanced DevOps Practices
+-  Exploring AI/ML Integration in Web Apps
 
 ---
 
 ### ⚡ Fun Fact
 
-> "I once automated my coffee brewing process using a Raspberry Pi ☕ → 🤖 → 🧑💻"
+> “Fun fact: I can hit sixes on the field and fix bugs off the field.”
 
 ---
 
